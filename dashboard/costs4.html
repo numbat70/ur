@@ -1,0 +1,204 @@
+<!DOCTYPE html> 
+<html lang="en"> 
+  <head> 
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
+    <title>Scottish Enterprise :: Shipping Costs</title> 
+
+    <!-- Bootstrap -->
+    <link href="css/bootstrap.min.css" rel="stylesheet">
+    <link href="css/calc.css" rel="stylesheet">
+
+   
+
+    <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+
+
+
+    <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+    <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+    <!--[if lt IE 9]>
+      <script src="https://oss.maxcdn.com/html5shiv/3.7.3/html5shiv.min.js"></script>
+      <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+    <![endif]-->	
+
+  </head>
+  
+
+  <body>
+    
+
+    <h1>Shipping Costs V2</h1>
+
+<!-- <div class="container-fluid"> -->
+<div class="container" style="min-width: 8em; width:95%; float: left;">
+
+
+<!--Header-->   
+<div class="row rowCalc rowCalcHeader">
+  <div class="col-xs-12 col-sm-6 col-md-6 col-lg-6"><strong>Type of expenses</strong></div>
+  <div class="col-xs-12 col-sm-2 col-md-2 col-lg-2"><strong></strong></div>
+  <div class="col-xs-12 col-sm-2 col-md-2 col-lg-2"><strong>Values</strong></div>
+  <div class="col-xs-12 col-sm-2 col-md-2 col-lg-2"><strong>Incoterm</strong></div>
+</div>
+ 
+<!--Value Of Goods-->
+<div class="row rowCalc">
+  <div class="col-xs-12 col-sm-6 col-md-6 col-lg-6">Value of the goods (loaded on leaving the factory)   </div>
+  <div class="col-xs-12 col-sm-2 col-md-2 col-lg-2"></div>
+  <div class="col-xs-12 col-sm-2 col-md-2 col-lg-2"><input style="width: 6em" type="number" value="0" name="VOG" id="VOG" class="" onfocus="if(this.value=='0')this.value='';" onblur="if(this.value=='')this.value='0';" />   </div>
+  <div class="col-xs-12 col-sm-2 col-md-2 col-lg-2">From the factory<br />(<strong>EXW</strong>)   </div>
+</div>
+ 
+<!--  Cost Of Handling -->
+<div class="row rowCalc">
+  <div class="col-xs-12 col-sm-6 col-md-6 col-lg-6">Cost of handling carriage before (from the factory to the port or to the airport)</div>
+   <div class="col-xs-12 col-sm-2 col-md-2 col-lg-2"></div>
+ <div class="col-xs-12 col-sm-2 col-md-2 col-lg-2"><input style="width: 6em"  style="width: 7em"  type="number" maxlength="6" value="0" name="COH" id="COH" class="  " onfocus="if(this.value=='0')this.value='';" onblur="if(this.value=='')this.value='0';" /></div>
+  <div class="col-xs-12 col-sm-2 col-md-2 col-lg-2"></div>
+</div>
+ 
+
+<!--  Cost Of Customs -->
+<div class="row rowCalc">
+  <div class="col-xs-12 col-sm-6 col-md-6 col-lg-6">Fixed cost of export Customs formalities   </div>
+   <div class="col-xs-12 col-sm-2 col-md-2 col-lg-2"></div>
+ <div class="col-xs-12 col-sm-2 col-md-2 col-lg-2"><input style="width: 6em"  type="number" value="0" name="COC" id="COC" class="  " onfocus="if(this.value=='0')this.value='';" onblur="if(this.value=='')this.value='0';" />   </div>
+  <div class="col-xs-12 col-sm-2 col-md-2 col-lg-2">   </div>
+</div>
+ 
+<!-- Handling Costs  -->
+<div class="row rowCalc">
+  <div class="col-xs-12 col-sm-6 col-md-6 col-lg-6">Handling costs (loading onto the airplane, the vessel or the truck in the case of groupage) in originating terminal   </div>
+  <div class="col-xs-12 col-sm-2 col-md-2 col-lg-2"></div>
+  <div class="col-xs-12 col-sm-2 col-md-2 col-lg-2"> <input style="width: 6em"  type="number" value="0" name="HC" id="HC" class="  " onfocus="if(this.value=='0')this.value='';" onblur="if(this.value=='')this.value='0';" />   </div>
+  <div class="col-xs-12 col-sm-2 col-md-2 col-lg-2">   </div>
+</div>
+ 
+
+<!--  FOB / FCA -->
+<div class="row rowCalc">
+  <div class="col-xs-12 col-sm-6 col-md-6 col-lg-6"><strong>Free on board / Free Carrier</strong>   </div>
+  <div class="col-xs-12 col-sm-2 col-md-2 col-lg-2"></div>
+  <div class="col-xs-12 col-sm-2 col-md-2 col-lg-2"><input  style="width: 6em"   type="button" value="0" name="FOB" id="FOB" class="buttonDisplayOnly" readonly="readonly" />   </div>
+  <div class="col-xs-12 col-sm-2 col-md-2 col-lg-2"><strong>FOB / FCA</strong>  </div>
+</div>
+ 
+
+<!--  Transport Costs -->
+<div class="row rowCalc">
+  <div class="col-xs-12 col-sm-6 col-md-6 col-lg-6">Total cost of the main transport (by air, sea or land)   </div>
+  <div class="col-xs-12 col-sm-2 col-md-2 col-lg-2"></div>
+  <div class="col-xs-12 col-sm-2 col-md-2 col-lg-2"><input style="width: 6em"  type="number" value="0" name="TC" id="TC" class="  " onfocus="if(this.value=='0')this.value='';" onblur="if(this.value=='')this.value='0';" />  </div>
+  <div class="col-xs-12 col-sm-2 col-md-2 col-lg-2">   </div>
+</div>
+ 
+
+<!--  Insurance Costs -->
+<div class="row rowCalc">
+  <div class="col-xs-12 col-sm-6 col-md-6 col-lg-6">Cost of insurance for the main transport*   </div>
+  <div class="col-xs-12 col-sm-2 col-md-2 col-lg-2"></div>
+  <div class="col-xs-12 col-sm-2 col-md-2 col-lg-2"><input style="width: 6em"  type="number" value="0" name="IC" id="IC" class="  " onfocus="if(this.value=='0')this.value='';" onblur="if(this.value=='')this.value='0';" />   </div>
+  <div class="col-xs-12 col-sm-2 col-md-2 col-lg-2">   </div>
+</div>
+ 
+
+
+<!-- Cost of Insurance and Freight  --> 
+<div class="row rowCalc">
+  <div class="col-xs-12 col-sm-6 col-md-6 col-lg-6"><strong>Cost of the Insurance and Freight</strong>   </div>
+  <div class="col-xs-12 col-sm-2 col-md-2 col-lg-2"></div>
+  <div class="col-xs-12 col-sm-2 col-md-2 col-lg-2"><input style="width: 6em"   type="button" value="0" name="CIF" id="CIF" class="buttonDisplayOnly" eadonly="readonly" />   </div>
+  <div class="col-xs-12 col-sm-2 col-md-2 col-lg-2"><strong> CIF</strong>   </div>
+</div>
+ 
+
+
+
+<!-- Cost of Handling Arrival -->
+<div class="row rowCalc">
+  <div class="col-xs-12 col-sm-6 col-md-6 col-lg-6">Cost of handling on arrival at the (air)port or bulk-breaking platform   </div>
+  <div class="col-xs-12 col-sm-2 col-md-2 col-lg-2"></div>
+  <div class="col-xs-12 col-sm-2 col-md-2 col-lg-2"><input style="width: 6em"  type="number" value="0" name="COHA" id="COHA" class="  " onfocus="if(this.value=='0')this.value='';" onblur="if(this.value=='')this.value='0';" />  </div>
+  <div class="col-xs-12 col-sm-2 col-md-2 col-lg-2">   </div>
+</div>
+ 
+
+
+<!--  Custom Duties   -->
+<div class="row rowCalc">
+  <div class="col-xs-12 col-sm-6 col-md-6 col-lg-6">Customs duties   </div>
+  <div class="col-xs-12 col-sm-2 col-md-2 col-lg-2"><input style="width: 2.5em"  name="CDpercent" id="CDpercent" type="number" class="" value="0" onfocus="if(this.value=='0')this.value='';" onblur="if(this.value=='')this.value='0';" />
+			<strong>%</strong> </div>
+  	<div class="col-xs-12 col-sm-2 col-md-2 col-lg-2">
+  			  <input style="width: 6em"  type="button" value="0" name="CD" id="CD" class="buttonDisplayOnly" readonly="readonly" />
+	</div>
+  <div class="col-xs-12 col-sm-2 col-md-2 col-lg-2">   </div>
+</div>
+
+ 
+
+<!-- Import Taxes  -->
+<div class="row rowCalc">
+  <div class="col-xs-12 col-sm-6 col-md-6 col-lg-6">Import taxes</div>
+   <div class="col-xs-12 col-sm-2 col-md-2 col-lg-2">
+   		<input style="width: 2.5em"  name="ITpercent" id="ITpercent" type="number" class="" value="0" onfocus="if(this.value=='0')this.value='';" onblur="if(this.value=='')this.value='0';" />
+					<strong>%</strong>
+	</div>
+ 	<div class="col-xs-12 col-sm-2 col-md-2 col-lg-2">
+ 		<input style="width: 6em"  type="button" value="0" name="IT" id="IT" class="buttonDisplayOnly" readonly="readonly" />   
+	</div>
+  	<div class="col-xs-12 col-sm-2 col-md-2 col-lg-2">   </div>
+</div>
+
+ 
+
+<!-- Import Customs  -->
+<div class="row rowCalc">
+  <div class="col-xs-12 col-sm-6 col-md-6 col-lg-6">Cost of import Customs formalities (flat rate)   </div>
+  <div class="col-xs-12 col-sm-2 col-md-2 col-lg-2"></div>
+  <div class="col-xs-12 col-sm-2 col-md-2 col-lg-2"><input style="width: 6em"  type="number" value="0" name="ICust" id="ICust" class="" onfocus="if(this.value=='0')this.value='';" onblur="if(this.value=='')this.value='0';" />   </div>
+  <div class="col-xs-12 col-sm-2 col-md-2 col-lg-2">   </div>
+</div>
+ 
+
+<!--  Carriage Costs After -->
+<div class="row rowCalc">
+  <div class="col-xs-12 col-sm-6 col-md-6 col-lg-6">Cost of carriage after (from the port (airport) to the buyer)   </div>
+  <div class="col-xs-12 col-sm-2 col-md-2 col-lg-2"></div>
+  <div class="col-xs-12 col-sm-2 col-md-2 col-lg-2"><input style="width: 6em"  type="number" value="0" name="CCA" id="CCA" class="" onfocus="if(this.value=='0')this.value='';" onblur="if(this.value=='')this.value='0';" />   </div>
+  <div class="col-xs-12 col-sm-2 col-md-2 col-lg-2">   </div>
+</div>
+ 
+
+<!-- Delivered Duty Paid  -->
+<div class="row rowCalc">
+  <div class="col-xs-12 col-sm-6 col-md-6 col-lg-6"><strong>Delivered Duty Paid</strong>   </div>
+  <div class="col-xs-12 col-sm-2 col-md-2 col-lg-2"></div>
+  <div class="col-xs-12 col-sm-2 col-md-2 col-lg-2"><input style="width: 6em"  type="button" value="0" name="DDP" id="DDP" class="buttonDisplayOnly" readonly="readonly" />  </div>
+  <div class="col-xs-12 col-sm-2 col-md-2 col-lg-2"><strong>DDP</strong>  </div>
+</div>
+
+<!-- calculate costs  -->
+<div class="row rowCalc rowCalcFooter">
+  <div class="col-xs-12 col-sm-6 col-md-6 col-lg-6">* based on the CIF value</div>
+  <div class="col-xs-12 col-sm-2 col-md-2 col-lg-2"></div>
+
+  <div class="col-xs-12 col-sm-2 col-md-2 col-lg-2"><div class="buttonCalc" id="buttonCalc">Calculate  </div>
+
+ 
+  <div class="col-xs-12 col-sm-2 col-md-2 col-lg-2"></div>
+</div>
+ 
+
+</div>
+
+<!-- Include all compiled plugins (below), or include individual files as needed -->
+<script src="js/bootstrap.min.js"></script>
+<script src="js/calc.js"></script>
+
+</body>
+</html> 
