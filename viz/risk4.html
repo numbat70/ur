@@ -8,9 +8,10 @@
         var data = google.visualization.arrayToDataTable([
           ['Month 1', 00, 00, 20, 20],
           ['Month 2', 00, 00, 40, 40],
-          ['Month 3', 00, 00, 60, 60],
-          ['Month 4', 00, 00, 80, 80],
-          ['Month 5', 00, 00, 100, 100]
+          ['Month 3', 00, 00, 40, 40],
+          ['Month 4', 00, 00, 60, 60],
+          ['Month 5', 00, 00, 80, 80],
+          ['Month 6', 00, 00, 100, 100]
           // Treat the first row as data.
         ], true);
 
@@ -22,7 +23,7 @@
             risingColor: { strokeWidth: 0, fill: '#0f9d58' }   // green
           }
         };
-
+ 
         var chart = new google.visualization.CandlestickChart(document.getElementById('chart_div'));
         chart.draw(data, options);
       }
