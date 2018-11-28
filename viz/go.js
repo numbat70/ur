@@ -3,7 +3,7 @@
  * Northwoods Software, https://www.nwoods.com/
  * GoJS and Northwoods Software are registered trademarks of Northwoods Software Corporation.
  * Copyright (C) 1998-2018 by Northwoods Software Corporation.  All Rights Reserved.
- * THIS SOFTWARE IS LICENSED.  THE LICENSE AGREEMENT IS AT: https://gojs.net/1.8.33/license.html.
+ * THIS SOFTWARE IS LICENSED.  THE LICENSE AGREEMENT IS AT: https://gojs.net/1.8.33/license.html.   
  */
 (function(window) { var g,ca={};if(!window.document||void 0===window.document.createElement("canvas").getContext)throw window.console&&window.console.log("The HTML Canvas element is not supported in this browser,or this browser is in Compatibility mode."),Error("The HTML Canvas element is not supported in this browser,or this browser is in Compatibility mode.");if(!Object.defineProperty)throw Error("GoJS requires a newer version of JavaScript");
 Function.prototype.bind||(Function.prototype.bind=function(a){function b(){return f.apply(a,e.concat(d.call(arguments)))}function c(){}var d=Array.prototype.slice,e=d.call(arguments,1),f=this;c.prototype=this.prototype;b.prototype=new c;return b});
