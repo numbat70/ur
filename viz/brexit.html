@@ -1,15 +1,16 @@
 <!DOCTYPE html>
 <html xmlns:mso="urn:schemas-microsoft-com:office:office" xmlns:msdt="uuid:C2F41010-65B3-11d1-A29F-00AA00C14882">
 <head>
-  
+
 <title></title>
+
 <meta name="description" content="A Sankey diagram with the thickness of links indicating the flow quantity." />
 <!-- Copyright 1998-2015 by Northwoods Software Corporation. -->
-<meta charset="UTF-8">      
+<meta charset="UTF-8">
 <script src="go.js"></script>
-<link href="../assets/css/goSampleszzz.css" rel="stylesheet" type="text/css" />  <!-- you don't need to use this -->
+<link href="goSamples.css" rel="stylesheet" type="text/css" />  <!-- you don't need to use this -->
 <!-- <script src="goSamples.js"></script> -->  <!-- this is only for the GoJS Samples framework -->
-<script id="code"> 
+<script id="code">
   function SankeyLayout() {
     go.LayeredDigraphLayout.call(this);
   }
@@ -125,7 +126,7 @@
                       columnSpacing: 1
                     })
         });
-
+//                 red               sky_blue            purple             purple2           teal                orange            green              royal_blue
     var colors = ["#AC193D/#BF1E4B", "#2672EC/#2E8DEF", "#8C0095/#A700AE", "#5133AB/#643EBF", "#008299/#00A0B1", "#D24726/#DC572E", "#008A00/#00A600", "#094AB2/#0A5BC4"];
 
     // this function provides a common style for the TextBlocks
@@ -198,7 +199,7 @@
 
   function load() {
       myDiagram.model = go.Model.fromJson(document.getElementById("mySavedModel").value);
-      //////////////////////////////////////  
+      //////////////////////////////////////
       //////////////////////////////////////
   }
 </script>
@@ -214,58 +215,62 @@
 </head>
 <body onload="init()">
 
-<div id="myDiagram" style="xbackground-color: #696969; border: solid 1px black; width: 99%; height: 1200px"></div>
+<div id="myDiagram" style="xbackground-color: #696969; border: solid 1px black; width: 99%; height: 550px"></div>
 
-
-<textarea id="mySavedModel" style="width:1%;height:50px" style="display: none;"> 
+<div>
+<textarea id="mySavedModel" style="width:1%;height:50px" style="display: none;">
 { "class": "go.GraphLinksModel",
   "nodeDataArray": [
- 
 
-{"key":"Q1", "text":"Q1", "color":"red"},
-{"key":"Q2", "text":"Q2", "color":"red"},
-{"key":"Q3", "text":"Q3", "color":"red"},
-{"key":"Q4", "ltext":"Q4", "color":"orange"},
-{"key":"Q5", "text":"Q5", "color":"orange"},
-{"key":"Q6", "text":"Q6", "color":"orange"},
-{"key":"Q7", "text":"Q7", "color":"orange"},
-{"key":"Q8", "text":"Q8", "color":"green"},
-{"key":"Q9", "text":"Q9", "color":"green"},
-{"key":"Results", "text":"Results", "color":"green"},
+
+{"key":"Q1", "text":"Q1", "color":"#AC193D"},
+{"key":"Q2", "text":"Q2", "color":"#AC193D"},
+{"key":"Q3", "text":"Q3", "color":"#AC193D"},
+{"key":"Q4", "ltext":"Q4", "color":"#D24726"},
+{"key":"Q5", "text":"Q5", "color":"#D24726"},
+{"key":"Q6", "text":"Q6", "color":"#D24726"},
+{"key":"Q7", "text":"Q7", "color":"#D24726"},
+
+{"key":"Q8", "text":"Q8", "color":"#008A00"},
+
+{"key":"Q9", "text":"Q9", "color":"#008A00"},
+{"key":"Results", "text":"Results", "color":"#008A00"},
 {"key":"Lost", "text":"Lost", "color":"red"}
 
     ], "linkDataArray": [
-   
-{"from":"Q1", "to":"Q2", "width":575},
-{"from":"Q1", "to":"Lost", "width":330},
 
-{"from":"Q2", "to":"Q3", "width":499},
-{"from":"Q2", "to":"Lost", "width":76},
+    {"from":"Q1", "to":"Q2", "width":575},
+    {"from":"Q1", "to":"Lost", "width":330},
 
-{"from":"Q3", "to":"Q4", "width":411},
-{"from":"Q3", "to":"Lost", "width":88},
+    {"from":"Q2", "to":"Q3", "width":499},
+    {"from":"Q2", "to":"Lost", "width":76},
 
-{"from":"Q4", "to":"Q5", "width":388},
-{"from":"Q4", "to":"Lost", "width":23},
+    {"from":"Q3", "to":"Q4", "width":411},
+    {"from":"Q3", "to":"Lost", "width":88},
 
-{"from":"Q5", "to":"Q6", "width":370},
-{"from":"Q5", "to":"Lost", "width":12},
-   
-{"from":"Q6", "to":"Q7", "width":367},
-{"from":"Q6", "to":"Lost", "width":3},
+    {"from":"Q4", "to":"Q5", "width":388},
+    {"from":"Q4", "to":"Lost", "width":23},
 
-{"from":"Q7", "to":"Q8", "width":363},
-{"from":"Q7", "to":"Lost", "width":4},
+    {"from":"Q5", "to":"Q6", "width":370},
+    {"from":"Q5", "to":"Lost", "width":12},
 
-{"from":"Q8", "to":"Q9", "width":357},
-{"from":"Q8", "to":"Lost", "width":6},
+    {"from":"Q6", "to":"Q7", "width":367},
+    {"from":"Q6", "to":"Lost", "width":3},
 
-{"from":"Q9", "to":"Results", "width":212},
-{"from":"Q9", "to":"Lost", "width":146}
+    {"from":"Q7", "to":"Q8", "width":363},
+    {"from":"Q7", "to":"Lost", "width":4},
+
+    {"from":"Q8", "to":"Q9", "width":357},
+    {"from":"Q8", "to":"Lost", "width":6},
+
+    {"from":"Q9", "to":"Results", "width":212},
+    {"from":"Q9", "to":"Lost", "width":146}
     
+
  ]}
-</textarea> 
+</textarea>
 </div>
 
-</div></body>
+</body>
 </html>
+
