@@ -9,7 +9,6 @@ setTimeout(function(){
 
 
 //
-//
 // get data from public Google Sheet
 //
 
