@@ -3,7 +3,9 @@
 // get data from public Google Sheet
 //
 
+
 // Be sure to "Publish to the Web" so your sheet is available!
+
 
 $(function() {
   
