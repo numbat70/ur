@@ -1,11 +1,10 @@
-//auto refresh
+//auto refresh mk
 var sec = 1000; // 1sec
 var min = sec * 60 // 1min
 
 setTimeout(function(){
    window.location.reload(1);
 }, min);
-
 
 
 //
