@@ -18,6 +18,30 @@
            ['Bob',   {v: 7000,  f: '$7,000'},  true]
          ]);
 
+     /////////////////new
+        var opts = {sendMethod: 'auto'};
+          // Replace the data source URL on next line with your data source URL.
+            var query = new google.visualization.Query('https://docs.google.com/spreadsheets/d/e/2PACX-1vSIRluVPv8xaR0xCOoyGY5cgxlfcsENF9eDD78EdSrYWoiI14LHzYs0uMOM177LktIjQ0fYfbx3-NXj/pubhtml?gid=0&single=true', opts);
+ 
+          // Optional request to return only column C and the sum of column B, grouped by C members.
+            //query.setQuery('select C, sum(B) group by C');
+
+         // Send the query with a callback function.
+           query.send(handleQueryResponse);
+          
+
+         function handleQueryResponse(response) {
+             if (response.isError()) {
+                  alert('Error in query: ' + response.getMessage() + ' ' + response.getDetailedMessage());
+             return;
+          }
+
+          var data2 = response.getDataTable();
+          var chart = new google.visualization.PieChart(document.getElementById('chart_div'));
+            chart.draw(data, {width: 400, height: 240, is3D: true});
+         }
+    ///////////////new    
+        
         var table = new google.visualization.Table(document.getElementById('table_div'));
         table.draw(data, {showRowNumber: false, width: '100%', height: '20%'});
       }
