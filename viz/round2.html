@@ -1,0 +1,118 @@
+<!DOCTYPE html>
+<html lang="en">  
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
+    <title>Scottish Enterprise :: User Research Dashboard</title>
+
+    <!-- Bootstrap -->
+    <link href="css/bootstrap.min.css" rel="stylesheet">
+    <link href="css/dashboard.css" rel="stylesheet"> 
+
+    <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+
+    <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+    <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+    <!--[if lt IE 9]>
+      <script src="https://oss.maxcdn.com/html5shiv/3.7.3/html5shiv.min.js"></script>
+      <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+    <![endif]-->
+
+<script type="text/javascript" src="https://www.gstatic.com/charts/loader.js"></script>
+<script type="text/javascript">
+    
+    //auto refresh mk
+    var sec = 1000; // 1sec
+    var min = sec * 60 // 1min
+
+    setTimeout(function(){
+    window.location.reload(1);
+    }, min);
+
+
+    //
+    // get data from public Google Sheet
+    //
+
+
+    // Be sure to "Publish to the Web" so your sheet is available!
+
+    
+    $(function() {
+  
+        // var googleSheetKey = '1VHVgpx5ofYKb5RbmZSOrZZixVwdrtm_VK79isKc4huA';
+        //   this is the demo -- one var googleSheetKey = '1yMBe42j77K5cExEcS0wYeUdoWiKhh7gddMjJifJndCs';
+        var googleSheetKey = '1v_pziJIWqXI_QSELvipoETi4rfIZ_a5XEZT7q9X1cRg';
+
+      // JSON
+         var url = 'https://spreadsheets.google.com/feeds/list/' + googleSheetKey + '/od6/public/values?alt=json';
+            $.ajax({
+            url: url,
+            dataType: 'json',
+            success: function(data) {
+                doStuff(data);
+            }
+         });
+  
+         });
+
+
+//
+// do stuff
+//
+function doStuff(data) {
+  if (data) {
+    // console.log('data', data);
+    
+    var feed = data.feed;
+    var rows = feed.entry || [];
+    var html = [];
+
+    for (var i = 0; i < rows.length; ++i) {
+      var row = rows[i];
+      
+      // if first row, create <thead>
+      if (i === 0) {
+        html.push('<thead>', '<tr>');
+        for (var prop in row) {
+          if (prop.substring(0,4) === 'gsx$') { // sheet data cell
+            html.push('<th>', prop.substring(4), '</th>');
+          }
+        }
+        html.push('</tr>', '</thead>');
+      }
+      
+      // populate table body
+      html.push('<tbody>', '<tr>');
+      for (var prop in row) {
+        if (prop.substring(0,4) === 'gsx$' && row[prop].$t !== 'undefined') { // sheet data cell
+          html.push('<td>', row[prop].$t, '</td>');
+        }
+      }
+      html.push('</tr>', '</tbody>');
+    }
+    
+    // update table with generated html
+    document.getElementById('sheet').innerHTML = html.join('');
+  }
+ }
+</script>
+    
+
+</head>
+
+    
+<body> 
+    
+<table id="sheet" class="table"></table>
+
+<!-- Include all compiled plugins (below), or include individual files as needed -->
+<script src="js/bootstrap.min.js"></script>
+<script src="js/calc.js"></script>
+<script src="js/gchart_notes.js"></script>
+
+</body>
+</html>
