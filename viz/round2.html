@@ -76,7 +76,7 @@ function doStuff(data) {
       
       // if first row, create <thead>
       if (i === 0) {
-        html.push('<thead>', '<tr>');
+        html.push('<thead scope="col">', '<tr>');
         for (var prop in row) {
           if (prop.substring(0,4) === 'gsx$') { // sheet data cell
             html.push('<th>', prop.substring(4), '</th>');
