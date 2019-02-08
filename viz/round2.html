@@ -69,10 +69,10 @@ function doStuff(data) {
       
       // if first row, create <thead>
       if (i === 0) {
-        html.push('<thead scope="col" class="thead-dark">', '<tr>');
+        html.push('<thead class="thead-dark">', '<tr>');
         for (var prop in row) {
           if (prop.substring(0,4) === 'gsx$') { // sheet data cell
-            html.push('<th>', prop.substring(4), '</th>');
+            html.push('<th scope="col">', prop.substring(4), '</th>');
           }
         }
         html.push('</tr>', '</thead>');
