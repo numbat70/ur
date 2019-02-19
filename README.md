@@ -7,7 +7,7 @@
 
 # Other Respositories
 - [SEP](https://numbat70.github.io/SEP/) 
-- [Postersfice ](https://numbat70.github.io/posters/) 
+- [Posters](https://numbat70.github.io/posters/) 
 - [Usability Test support site](https://numbat70.github.io/test/)
 
 
