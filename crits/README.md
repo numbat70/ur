@@ -4,7 +4,7 @@
 - It is highly organised to ensure that it delivers useful insights and does not descend into a moan-fest 
 - They are there to make things better :-)
 
-##What are the benefits
+## What are the benefits
 - a second (etc) opinion 
 - or an outsider's view
 - de-risk your design
@@ -12,8 +12,7 @@
 - to stress-test your design
 - test ideas
 - to share your work
-and they make peopel feel more confident that things are going in teh right direction
-
+and they make people feel more confident that things are going in the right direction
 
 ## Prepare the following info to take to the Crit
 - What have you brought for critique?
