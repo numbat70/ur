@@ -13,5 +13,24 @@ Look at the: [GDS Feedback rules posters](Poster_GivingAskingReceivingFeedback.p
 
 ## Resources
 - [GDS Powerpoint on Design Crits](15_Design_crits_Feb_2018.pptx)
+- [GDS Design Notes Blog Entry](https://designnotes.blog.gov.uk/2017/11/27/using-design-crits-to-improve-collaboration)
+- [Scott Berkun on running a design crit](https://scottberkun.com/essays/23-how-to-run-a-design-critique/)
+- [Medium article on Design Crit](https://uxplanet.org/things-you-should-know-before-going-into-a-design-crit-65e7dcc80ff5)
+- [GDS Roadshow Glasgow - Not really relevant but it has a picture of me :-)](https://www.flickr.com/photos/gdsteam/sets/72157679507158541)
 
+
+
+
+
+
+## Criticism vs Critique
+
+- Criticism passes judgement — **Critique poses questions**
+- Criticism finds fault — Critique **uncovers opportunity**
+- Criticism is personal — Critique **is objective**
+- Criticism is vague — Critique **is concrete**
+- Criticism tears down — Critique **builds up**
+- Criticism is ego-centric — Critique **is altruistic**
+- Criticism is adversarial — Critique **is cooperative**
+- Criticism belittles the designer — Critique **improves the design**
 
