@@ -2,6 +2,17 @@
 ## What is a Design Crit(ique)?
 - It is a critique or review of a design that will support teh designer with helpfuul feedback at an early stage
 - It is highly organised to ensure that it delivers useful insights and does not descend into a moan-fest 
+- They are there to make things better :-)
+
+##What are the benefits
+- a second (etc) opinion 
+- or an outsider's view
+- de-risk your design
+- to mitigate bias
+- to stress-test your design
+- test ideas
+- to share your work
+and they make peopel feel more confident that things are going in teh right direction
 
 
 ## Prepare the following info to take to the Crit
