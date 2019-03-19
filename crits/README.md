@@ -37,11 +37,13 @@ and they make people feel more confident that things are going in the right dire
 ## Prepare the following info to take to the Crit
 - What have you brought for critique?
 - What stage is it at?
+- How did you get to this point?
 - What kind of feedback do you want?
 - Who are the users?
 - What are the user needs?
 - What is the policy intent?
 - What assumptions or constraints are you working with?
+- A map/summary of these activities and diagrams such as https://numbat70/github.io/ur
 
 # Criters
 ## A. Listen to the context
