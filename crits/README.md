@@ -14,6 +14,7 @@
 - to share your work
 and they make people feel more confident that things are going in the right direction
 
+# Design Owner
 ## 1. Set the context
 - who are the users?
 - what do they need?
@@ -33,7 +34,6 @@ and they make people feel more confident that things are going in the right dire
 - do take notes
 - do listen
 
-
 ## Prepare the following info to take to the Crit
 - What have you brought for critique?
 - What stage is it at?
@@ -43,9 +43,22 @@ and they make people feel more confident that things are going in the right dire
 - What is the policy intent?
 - What assumptions or constraints are you working with?
 
+# Criters
+## A. Listen to the context
+- ask questions if you need to
+
+## B. Give the right kind of feedback
+- avoid personal opinions
+- avoid absolute statements
+- ask open questions
+- be kind
+- explore ideas and suggest alternatives 
 Look at the: [GDS Feedback rules posters](Poster_GivingAskingReceivingFeedback.pdf)
 
-## Resources
+
+
+# Resources
+## Links
 - [GDS Powerpoint on Design Crits](15_Design_crits_Feb_2018.pptx)
 - [GDS Design Notes Blog Entry](https://designnotes.blog.gov.uk/2017/11/27/using-design-crits-to-improve-collaboration)
 - [Scott Berkun on running a design crit](https://scottberkun.com/essays/23-how-to-run-a-design-critique/)
