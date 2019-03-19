@@ -29,6 +29,7 @@ Look at the: [GDS Feedback rules posters](Poster_GivingAskingReceivingFeedback.p
 - [GDS Powerpoint on Design Crits](15_Design_crits_Feb_2018.pptx)
 - [GDS Design Notes Blog Entry](https://designnotes.blog.gov.uk/2017/11/27/using-design-crits-to-improve-collaboration)
 - [Scott Berkun on running a design crit](https://scottberkun.com/essays/23-how-to-run-a-design-critique/)
+- [Scott Berkun - Youtube Video - Feedback without frustration](https://youtu.be/GzRDG2jKf_4)
 - [Medium article on Design Crit](https://uxplanet.org/things-you-should-know-before-going-into-a-design-crit-65e7dcc80ff5)
 - [GDS Roadshow Glasgow - Not really relevant but it has a picture of me :-)](https://www.flickr.com/photos/gdsteam/sets/72157679507158541)
 - https://uxstudioteam.com/ux-blog/design-critique/
