@@ -1,4 +1,8 @@
 # Design Critiques (Crits)
+## What is a Design Crit(ique)?
+- It is a critique or review of a design that will support teh designer with helpfuul feedback at an early stage
+- It is highly organised to ensure that it delivers useful insights and does not descend into a moan-fest 
+
 
 ## Prepare the following info to take to the Crit
 - What have you brought for critique?
