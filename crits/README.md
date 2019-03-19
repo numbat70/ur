@@ -25,11 +25,7 @@ Look at the: [GDS Feedback rules posters](Poster_GivingAskingReceivingFeedback.p
 - [UX for the mases :-)](http://www.uxforthemasses.com/design-critiques/)
 - https://trydesignlab.com/blog/how-to-give-and-receive-design-critique-well/
 - [NNG](https://www.nngroup.com/articles/design-critiques/)
-- 
-
-
-
-
+- [Medium article 2](https://medium.com/facebook-design/critique-is-an-important-part-of-any-design-process-whether-you-work-as-part-of-a-team-or-solo-ef3dcb299ce3)
 
 
 ## Criticism vs Critique
