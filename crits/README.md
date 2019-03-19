@@ -17,6 +17,15 @@ Look at the: [GDS Feedback rules posters](Poster_GivingAskingReceivingFeedback.p
 - [Scott Berkun on running a design crit](https://scottberkun.com/essays/23-how-to-run-a-design-critique/)
 - [Medium article on Design Crit](https://uxplanet.org/things-you-should-know-before-going-into-a-design-crit-65e7dcc80ff5)
 - [GDS Roadshow Glasgow - Not really relevant but it has a picture of me :-)](https://www.flickr.com/photos/gdsteam/sets/72157679507158541)
+- https://uxstudioteam.com/ux-blog/design-critique/
+- https://www.invisionapp.com/inside-design/how-to-give-designers-better-feedback/
+- https://www.toptal.com/designers/product-design/productive-design-critique-guide
+- https://www.toptal.com/designers/product-design/productive-design-critique-guide
+- https://uxdesign.cc/debugging-your-design-critique-2f002acb50cf
+- [UX for the mases :-)](http://www.uxforthemasses.com/design-critiques/)
+- https://trydesignlab.com/blog/how-to-give-and-receive-design-critique-well/
+- [NNG](https://www.nngroup.com/articles/design-critiques/)
+- 
 
 
 
