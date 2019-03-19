@@ -14,6 +14,26 @@
 - to share your work
 and they make people feel more confident that things are going in the right direction
 
+## 1. Set the context
+- who are the users?
+- what do they need?
+- what stage is the project at?
+- what are our current assumptions?
+
+## 2. Say what kind of feedback you want
+- graphic design
+- interaction design
+- service design
+- content design
+
+## 3. Let the team review the work
+- don’t give a demo
+- don’t talk too much
+- don’t get defensive
+- do take notes
+- do listen
+
+
 ## Prepare the following info to take to the Crit
 - What have you brought for critique?
 - What stage is it at?
