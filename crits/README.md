@@ -14,6 +14,11 @@
 - to share your work
 and they make people feel more confident that things are going in the right direction
 
+## Roles
+-Facilitator
+- Note Taker
+- 
+
 # Design Owner
 ## 1. Set the context
 - who are the users?
@@ -55,6 +60,7 @@ and they make people feel more confident that things are going in the right dire
 - ask open questions
 - be kind
 - explore ideas and suggest alternatives 
+
 Look at the: [GDS Feedback rules posters](Poster_GivingAskingReceivingFeedback.pdf)
 
 # Facilitators
