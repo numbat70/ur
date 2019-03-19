@@ -55,6 +55,11 @@ and they make people feel more confident that things are going in the right dire
 - explore ideas and suggest alternatives 
 Look at the: [GDS Feedback rules posters](Poster_GivingAskingReceivingFeedback.pdf)
 
+# Facilitators
+## Note taker
+- Take Notes :-)
+- Get Criters to use Feedback Templates
+
 
 
 # Resources
