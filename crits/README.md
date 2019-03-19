@@ -43,7 +43,7 @@ and they make people feel more confident that things are going in the right dire
 - What are the user needs?
 - What is the policy intent?
 - What assumptions or constraints are you working with?
-- A map/summary of these activities and diagrams such as https://numbat70.github.io/ur
+- A map/summary of these activities and diagrams such as https://numbat70.github.io/SEP
 
 # Criters
 ## A. Listen to the context
