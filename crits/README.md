@@ -11,3 +11,7 @@
 
 Look at the: [GDS Feedback rules posters](Poster_GivingAskingReceivingFeedback.pdf)
 
+## Resources
+- [GDS Powerpoint on Design Crits](15_Design_crits_Feb_2018.pptx)
+
+
