@@ -81,13 +81,12 @@ Look at the: [GDS Feedback rules posters](Poster_GivingAskingReceivingFeedback.p
 - [Scott Berkun - Youtube Video - Feedback without frustration](https://youtu.be/GzRDG2jKf_4)
 - [Medium article on Design Crit](https://uxplanet.org/things-you-should-know-before-going-into-a-design-crit-65e7dcc80ff5)
 - [GDS Roadshow Glasgow - Not really relevant but it has a picture of me :-)](https://www.flickr.com/photos/gdsteam/sets/72157679507158541)
-- https://uxstudioteam.com/ux-blog/design-critique/
-- https://www.invisionapp.com/inside-design/how-to-give-designers-better-feedback/
-- https://www.toptal.com/designers/product-design/productive-design-critique-guide
-- https://www.toptal.com/designers/product-design/productive-design-critique-guide
-- https://uxdesign.cc/debugging-your-design-critique-2f002acb50cf
+- [ux studio article](https://uxstudioteam.com/ux-blog/design-critique/)
+- [invision article](https://www.invisionapp.com/inside-design/how-to-give-designers-better-feedback/)
+- [totalp article](https://www.toptal.com/designers/product-design/productive-design-critique-guide)
+- [uxdesign article](https://uxdesign.cc/debugging-your-design-critique-2f002acb50cf)
 - [UX for the mases :-)](http://www.uxforthemasses.com/design-critiques/)
-- https://trydesignlab.com/blog/how-to-give-and-receive-design-critique-well/
+- [trydesignlab article](https://trydesignlab.com/blog/how-to-give-and-receive-design-critique-well/)
 - [NNG](https://www.nngroup.com/articles/design-critiques/)
 - [Medium article 2](https://medium.com/facebook-design/critique-is-an-important-part-of-any-design-process-whether-you-work-as-part-of-a-team-or-solo-ef3dcb299ce3)
 
