@@ -49,6 +49,8 @@ and they make people feel more confident that things are going in the right dire
 - What is the policy intent?
 - What assumptions or constraints are you working with?
 - A map/summary of these activities and diagrams such as https://numbat70.github.io/SEP
+- Fill in a [Crit Canvas](Saltire_Crit_Canvas.pdf) and bring it with you
+
 
 # Criters
 ## A. Listen to the context
@@ -66,7 +68,7 @@ Look at the: [GDS Feedback rules posters](Poster_GivingAskingReceivingFeedback.p
 # Facilitators
 ## Templates
 - [Crit Canvas](Saltire_Crit_Canvas.pdf)
-- Get Criters to use Feedback Templates(Saltire_Crit_Feedback.pdf)
+- Get Criters to use Feedback Templates; [Crit Feedback](Saltire_Crit_Feedback.pdf)
 
 
 # Resources
