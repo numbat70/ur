@@ -20,6 +20,8 @@ and they make people feel more confident that things are going in the right dire
 - 
 
 # Design Owner
+Have a quick look at the [GDS Powerpoint on Design Crits](15_Design_crits_Feb_2018.pptx)
+
 ## 1. Set the context
 - who are the users?
 - what do they need?
