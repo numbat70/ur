@@ -15,7 +15,7 @@
 and they make people feel more confident that things are going in the right direction
 
 ## Roles
--Facilitator
+- Facilitator
 - Note Taker
 - 
 
@@ -64,10 +64,9 @@ and they make people feel more confident that things are going in the right dire
 Look at the: [GDS Feedback rules posters](Poster_GivingAskingReceivingFeedback.pdf)
 
 # Facilitators
-## Note taker
-- Take Notes :-)
-- Get Criters to use Feedback Templates
-
+## Templates
+- [Crit Canvas](Saltire_Crit_Canvas.pdf)
+- Get Criters to use Feedback Templates(Saltire_Crit_Feedback.pdf)
 
 
 # Resources
