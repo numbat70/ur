@@ -70,7 +70,7 @@ Look at the: [GDS Feedback rules posters](Poster_GivingAskingReceivingFeedback.p
 # Facilitators
 ## Templates
 - [Crit Canvas](Saltire_Crit_Canvas.pdf)
-- Get Criters to use Feedback Templates; [Crit Feedback](Saltire_Crit_Feedback.pdf)
+- Get Criters to use Feedback Templates: [Crit Feedback](Saltire_Crit_Feedback.pdf)
 
 
 # Resources
