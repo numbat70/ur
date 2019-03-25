@@ -15,9 +15,9 @@
 and they make people feel more confident that things are going in the right direction
 
 ## Roles
-- Facilitator
-- Note Taker
-- 
+- Person who wants something critiqued. Lets call them the **"Design Owner"**
+- **Note Taker**
+- Reviewers. Lets call them **"Criters"**
 
 # Design Owner
 Have a quick look at the [GDS Powerpoint on Design Crits](15_Design_crits_Feb_2018.pptx)
