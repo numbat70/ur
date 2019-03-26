@@ -1,11 +1,16 @@
 # Open Innovation Design Crit
 ## Running Order
+- Intro to Design Crit (GDS STyle)
+- Set Context
 - 
+- 
+- 
+- Respectful Dissent if time allows
 
 
 # Resources
-- [-	Recent wf’s based on the requirements gathered by Timeyin and two workshops with OI team](https://pah5ja.axshare.com/#g=1&p=home )
-- []()
+- [2018: Recent wf’s based on the requirements gathered by Timeyin and two workshops with OI team](https://pah5ja.axshare.com/#g=1&p=home )
+- [2017: Wireframes](https://qa2nui.axshare.com/#g=1&p=oie_-_home)
 - []()
 - []()
 - []()
