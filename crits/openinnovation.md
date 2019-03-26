@@ -3,9 +3,10 @@
 - Intro to Design Crit (GDS STyle)
 - Show [Crit Canvas](SaltireCritCanvasV2.pdf)
 - Set Context
-- 
-- 
-- 
+- Show your stuff
+- Question session
+- Split into groups and develop feedback
+- Reconvene and deliver some feedback highlights
 - Respectful Dissent if time allows
 
 
