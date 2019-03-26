@@ -15,7 +15,6 @@
 - [2017: Wireframes](https://qa2nui.axshare.com/#g=1&p=oie_-_home)
 - [2017: WhatUsersDo usability report](WUD_OI.pdf)
 - [Crit Canvas](SaltireCritCanvasV2.pdf)
-- [User Needs](userneeds.xls)
 - [Lisa Anderson Overview](OI_Lisa.pdf)
 - [Needs March 2019](NeedsV2.pdf)
 - [To Be process 2019](ToBeV2.pdf)
