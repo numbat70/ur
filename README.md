@@ -5,6 +5,8 @@
 # Techniques
 - [Design Crits - GDS style](crits)
 
+- [Open Innovation Design Crit page](crits\openinnoation)
+
 # Other Respositories
 - [SEP](https://numbat70.github.io/SEP/) 
 - [Posters](https://numbat70.github.io/posters/) 
