@@ -15,7 +15,7 @@ SDS:   [https://xd.adobe.com/view/f6a8b216-8a78-425b-6b18-df0fdc96456a-8099/?ful
 > Need help to grow your business? From funding, training, consultancy and advice to exploring new markets and fresh ways of working – we support all business sizes and sectors across Scotland.
 > 
 > Find the right support for you >
-
+>   
 > Browse all XX support options >
 
 **Option 2**
