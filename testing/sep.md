@@ -14,7 +14,7 @@ SDS:   [https://xd.adobe.com/view/f6a8b216-8a78-425b-6b18-df0fdc96456a-8099/?ful
 > 
 > Find the right support for you >
 >   
-> Browse all XX support options >
+> Browse all 342 support options >
 
 **Option 2**
 > Do you want to develop and grow your business? Would finding a mentor or some professional training help you take the next steps? Or perhaps you are thinking about exporting? 
