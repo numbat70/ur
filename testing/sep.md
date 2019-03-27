@@ -1,4 +1,4 @@
-# SEP 27th March 2019
+# 27th March 2019
 
 ## Links
 BG:   [https://xd.adobe.com/view/cf527384-6372-47c6-6512-e157c44d8560-b963/?fullscreen](https://xd.adobe.com/view/cf527384-6372-47c6-6512-e157c44d8560-b963/?fullscreen)
