@@ -25,7 +25,8 @@ SDS:   [https://xd.adobe.com/view/f6a8b216-8a78-425b-6b18-df0fdc96456a-8099/?ful
 > Search through these support services below.
 
 **Option 4**
-> Do you want to develop and grow your business?  Do you have a start up idea and need help with the next steps?  We have gathered all the support in one place.  Search through our support services below.
+> Do you want to develop and grow your business?  Do you have a start up idea and need help with the next steps?  We have gathered all the support in one place.  
+> Search through our support services below.
 
 
 
