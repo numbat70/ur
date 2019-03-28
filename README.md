@@ -6,7 +6,7 @@
 - [Design Crits - GDS style](crits)
 
 # Test rounds
-- [SEP:   27th March 2019](\ur\testing\sep) and [SEP 27 Mar results}(\testing\sep27mar.pdf)
+- [SEP:   27th March 2019](\ur\testing\sep) and [SEP 27 Mar results](\testing\sep27mar.pdf)
 
 # Design Crits
 - [Open Innovation Design Crit page](crits\openinnovation)
