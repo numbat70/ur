@@ -4,6 +4,7 @@
 
 # Techniques
 - [Design Crits - GDS style](ur/crits/)
+- [Landscape Diagrams]()
 
 # Test rounds
 - [SEP:   27th March 2019](ur/testing/sep) and [SEP 27 Mar results](/ur/testing/sep27mar.pdf) 
