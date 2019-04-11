@@ -3,7 +3,7 @@
 - [Service Design](https://scotent.sharepoint.com/sites/Marketing-and-Service-Transformation/SitePages/Service-Design.aspx)
 
 # Techniques
-- [Design Crits - GDS style](/crits/README.md)
+- [Design Crits - GDS style](crits/)
 - [Service Landscape Diagrams](/techniques/landscape.md)
 
 # Test rounds
