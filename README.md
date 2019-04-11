@@ -11,7 +11,7 @@
 - [SEP:   27 March 2019 Domain survey results via WUD](https://www.surveymonkey.com/results/SM-XKLQTVVNV/) 
 
 # Design Crits
-- [Open Innovation Design Crit page](/crits/openinnovation)
+- [Open Innovation Design Crit page](crits/openinnovation)
 
 # Other Respositories
 - [SEP](https://numbat70.github.io/SEP/)
