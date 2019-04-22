@@ -31,7 +31,7 @@ Factors of a Vulnerable Adult:
 - Health issues
 
 
-## Where are they
+## Find out more about them in these places
 - Linwood Development Trust (Jim...)
 - Councillors - School councillors or SMP's. Mari Black
 - Job centres
@@ -48,7 +48,6 @@ Factors of a Vulnerable Adult:
 
 ## Problems people suffer accessing websites
 ![Digital Inclusion - Problems People Suffer](images/Dinc_problems.png)
-
 [See more detail on each of these areas](problems.md)
 
 
