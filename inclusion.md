@@ -1,5 +1,12 @@
 # Digital Inclusion
 
+## Problems people suffer accessing websites
+![Digital Inclusion - Problems People Suffer](images/Dinc_problems.png)
+[See more detail on each of these areas](problems.md)
+
+
+
+
 ## Vulnerable groups
 ### Who are vulnerable groups
 Here is a definition from: http://www.wbsb.co.uk/4482
@@ -32,6 +39,9 @@ Factors of a Vulnerable Adult:
 - People With Criminal Records (Talk to Disclosure Scotland)
 - Health issues
 
+## Who are Marginalized and Vulnerable Populations
+
+
 
 ## Find out more about them in these places
 - Linwood Development Trust (Jim...)
@@ -46,10 +56,5 @@ Factors of a Vulnerable Adult:
 - Careers advisors
 - Fayres - Job Fayres
 - Fordbank/River Brae
-
-
-## Problems people suffer accessing websites
-![Digital Inclusion - Problems People Suffer](images/Dinc_problems.png)
-[See more detail on each of these areas](problems.md)
 
 
