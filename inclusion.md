@@ -4,7 +4,7 @@
 ### Who are vulnerable groups
 Here is a definition from: http://www.wbsb.co.uk/4482
 
-'''
+```
 Vulnerable Adult Definition
 "A person who is 18 years of age or over, and who is or may be in need of community care services by reason of mental or other disability, age or illness and who is or may be unable to take care of him/herself, or unable to protect him/herself against significant harm or serious exploitation."
 
@@ -20,7 +20,7 @@ Has a long-term illness / condition
 Misuses substances or alcohol
 Is a carer, where the person meets the definition
 Is unable to demonstrate the capacity to make a decision and is in need of care and support.
-'''
+```
 
 #### Some other definitions
 - Financialy Disadvantaged
