@@ -6,7 +6,9 @@ Here is a definition from: http://www.wbsb.co.uk/4482
 
 ```
 Vulnerable Adult Definition
-"A person who is 18 years of age or over, and who is or may be in need of community care services by reason of mental or other disability, age or illness and who is or may be unable to take care of him/herself, or unable to protect him/herself against significant harm or serious exploitation."
+"A person who is 18 years of age or over, and who is or may be in need of community care services by reason 
+of mental or other disability, age or illness and who is or may be unable to take care of him/herself, or 
+unable to protect him/herself against significant harm or serious exploitation."
 
 (Law Commission - Who Decides?: Making decisions on behalf of mentally incapacitated adults 1997)
 
