@@ -10,6 +10,7 @@
 - Location may directly impact on education choices
 - Location may effect what services are available locally
 - loneliness and social isolation may impact on peoples desire to reach out
+- Location can make cost of living higher thus further limiting available cash for other things
 
 ### Cost
 - Economically disadvantaged populations may be barred from acessing services due to cost
@@ -20,7 +21,7 @@
 - Many people only use mobile devices to access digital chanels. If these chanels are not optimised for "Mobile" then they are directly impacted.
 
 ### Infrastructure
-- Broadband speed is teh most common infrastructure limitation for accessing services.
+- Broadband speed is the most common infrastructure limitation for accessing services.
 - 
 
 ### Language
