@@ -75,7 +75,7 @@ Look at the: [GDS Feedback rules posters](Poster_GivingAskingReceivingFeedback.p
 
 # Resources
 ## Links
-- [GDS style Powerpoint on Design Crits V2](crits/GDSDesignCcritsv2.pptx)
+- [GDS style Powerpoint on Design Crits V2](GDSDesignCcritsv2.pptx)
 - [GDS Design Notes Blog Entry](https://designnotes.blog.gov.uk/2017/11/27/using-design-crits-to-improve-collaboration)
 - [Scott Berkun on running a design crit](https://scottberkun.com/essays/23-how-to-run-a-design-critique/)
 - [Scott Berkun - Youtube Video - Feedback without frustration](https://youtu.be/GzRDG2jKf_4)
