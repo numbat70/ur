@@ -53,7 +53,6 @@ Have a quick look at the [GDS style Powerpoint on Design Crits V2](GDSDesignCcri
 - A map/summary of these activities and diagrams such as this [SEP Crit Prep Page](https://numbat70.github.io/SEP)
 - Fill in a [Crit Canvas](Saltire_Crit_Canvas.pdf) and bring it with you
 
-
 # Criters
 ## A. Listen to the context
 - ask questions if you need to
