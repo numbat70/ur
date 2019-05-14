@@ -102,3 +102,4 @@ Look at the: [GDS Feedback rules posters](Poster_GivingAskingReceivingFeedback.p
 - Criticism is adversarial — Critique **is cooperative**
 - Criticism belittles the designer — Critique **improves the design**
 
+
