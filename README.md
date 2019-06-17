@@ -6,6 +6,10 @@
 - [Design Crits - GDS style](crits/)
 - [Service Landscape Diagrams](/techniques/landscape.md)
 
+# Customer 
+- [Customer Canvas](/techniques/CustomerCanvas.pdf)
+- [Pitch Canvas](/techniques/PitchCanvas.pdf)
+
 # Test rounds
 - [SEP:   27th March 2019](ur/testing/sep) and [SEP 27 Mar results](/testing/sep27mar.pdf) 
 - [SEP:   27 March 2019 Domain survey results via WUD](https://www.surveymonkey.com/results/SM-XKLQTVVNV/) 
