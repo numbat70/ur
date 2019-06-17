@@ -7,8 +7,8 @@
 - [Service Landscape Diagrams](/techniques/landscape.md)
 
 # Customer 
-- [Customer Canvas](/techniques/CustomerCanvas.pdf)
-- [Pitch Canvas](/techniques/PitchCanvas.pdf)
+- [Customer Canvas](/techniques/CustomerCanvasV2.pdf)
+- [Pitch Canvas](/techniques/PitchCanvasV2.pdf)
 
 # Test rounds
 - [SEP:   27th March 2019](ur/testing/sep) and [SEP 27 Mar results](/testing/sep27mar.pdf) 
