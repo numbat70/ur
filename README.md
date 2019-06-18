@@ -10,7 +10,7 @@
 - [Customer Canvas](/techniques/CustomerCanvasV3.pdf)
 - [Pitch Canvas](/techniques/PitchCanvasV3.pdf)
 - [Hypothesis Card](/techniques/HypothesisCardV2.pdf)
-- [Pitch Canvas](/techniques/LearningCardV2.pdf)
+- [Learning Card](/techniques/LearningCardV2.pdf)
 
 # Test rounds
 - [SEP:   27th March 2019](ur/testing/sep) and [SEP 27 Mar results](/testing/sep27mar.pdf) 
